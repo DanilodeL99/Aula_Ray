@@ -920,6 +920,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
+<<<<<<< HEAD
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
@@ -928,6 +929,16 @@ PlayerSettings:
   qualitySettingsNames: []
   projectName: Aula_Ray
   organizationId: guilhermediogodemoraesmn31k7ci
+=======
+  activeInputHandler: 0
+  windowsGamepadBackendHint: 0
+  enableDirectStorage: 0
+  cloudProjectId: 32b54249-b7e5-4be5-86e8-f82a32d72dfb
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: Aula_Ray 2026-05-15_08-31-25
+  organizationId: danilodel
+>>>>>>> 614a721f9d822c2faa84bbf8af35b8a1df743e37
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
